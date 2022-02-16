@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DIWIN
-- 👀 I’m interested in software negineering in general and also teach it on school
+- 👀 I’m interested in software engineering in general and also teach it at school
 - 🌱 I’m currently programming in C++ (Microsoft Foundation Classes) with MFC
-- 🌱 I’m currently teaching algorithm and data structures
+- 🌱 I’m currently teaching algorithms and data structures
 - 💞️ I’m looking to collaborate on examples for learning object oriented programming (OOP)
 - 📫 How to reach me at linkedin: www.linkedin.com/in/dietmar-winkler-makes-software
 
